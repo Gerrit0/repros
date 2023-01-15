@@ -1,0 +1,13 @@
+{
+  "name": "repros",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "git@github.com:Gerrit0/repros.git",
+  "author": "Gerrit Birkeland <gerrit@gerritbirkeland.com>",
+  "license": "MIT",
+  "dependencies": {
+    "minimatch": "^6.0.1",
+    "typescript": "^4.9.4"
+  }
+}
