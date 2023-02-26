@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pokemon-showdown": "github:smogon/pokemon-showdown#7030687f1c09ff1f359448272affa098e57372e5",
+    "typescript": "^4.9.5"
+  }
+}
