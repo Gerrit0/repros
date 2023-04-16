@@ -1,0 +1,11 @@
+{
+  "name": "@gerrit0/packages-example",
+  "private": true,
+  "scripts": {
+    "build": "tsc --build",
+    "docs": "typedoc"
+  },
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}

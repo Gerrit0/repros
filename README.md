@@ -1,3 +1,6 @@
-# repros
+# Packages Example
 
-You probably want some branch other than `main`, this is a convenient place to stick project setups for people I'm helping.
+https://discord.com/channels/508357248330760243/1093239417327583432
+
+bar exports subpaths
+foo imports bar with subpaths

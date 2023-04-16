@@ -1,0 +1,8 @@
+{
+  "name": "@gerrit0/foo",
+  "version": "0.0.1",
+  "exports": "./dist/index.js",
+  "dependencies": {
+    "@gerrit0/bar": "workspace:*"
+  }
+}

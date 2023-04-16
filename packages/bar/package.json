@@ -1,0 +1,8 @@
+{
+  "name": "@gerrit0/bar",
+  "version": "0.0.1",
+  "exports": {
+    ".": "./dist/index.js",
+    "./*": "./dist/*.js"
+  }
+}
