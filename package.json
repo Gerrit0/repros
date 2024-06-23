@@ -1,0 +1,11 @@
+{
+  "name": "repros",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Gerrit0/repros.git",
+  "author": "Gerrit Birkeland <gerrit@gerritbirkeland.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tsx": "^4.15.7"
+  }
+}

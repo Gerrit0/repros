@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    // Buggy
+    "target": "es2021"
+    // Works as expected
+    // "target": "es2022"
+  }
+}
