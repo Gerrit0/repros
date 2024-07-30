@@ -1,0 +1,22 @@
+[
+  {
+    "name": "DecodingStatus",
+    "type": "enum",
+    "symbols": ["success", "failure"]
+  },
+  {
+    "name": "BurstInfo",
+    "type": "record",
+    "fields": [
+      { "name": "demodId", "type": "int" },
+      { "name": "frameId", "type": "int" },
+      { "name": "burstId", "type": "int" },
+      { "name": "frequencyOffsetHz", "type": "int" },
+      { "name": "timeOffsetNs", "type": "long" },
+      { "name": "esN0", "type": "float" },
+      { "name": "rxPowerDensity", "type": "float" },
+      { "name": "decodingStatus", "type": "DecodingStatus" },
+      { "name": "trafficBytes", "type": "long" }
+    ]
+  }
+]
