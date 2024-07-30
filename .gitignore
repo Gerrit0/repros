@@ -4,3 +4,4 @@ pnpm.lock
 package-lock.json
 build
 output.json
+output.bin
