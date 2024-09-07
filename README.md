@@ -1,3 +1,1 @@
-# repros
-
-You probably want some branch other than `main`, this is a convenient place to stick project setups for people I'm helping.
+See https://stackoverflow.com/questions/78957804/sqlite3-discord-id-precision-issue-in-typescript

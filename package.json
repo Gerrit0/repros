@@ -1,0 +1,13 @@
+{
+  "name": "repros",
+  "version": "1.0.0",
+  "description": "See https://stackoverflow.com/questions/78957804/sqlite3-discord-id-precision-issue-in-typescript",
+  "main": "repro.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
